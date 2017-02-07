@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="18" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="19" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="23" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="24" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="25" pc="268435520" symbol="onLayout"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="26" pc="268435563" symbol="onLayout"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="27" pc="268435606" symbol="onLayout"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="28" pc="268435649" symbol="onLayout"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="31" pc="268435693" symbol="onShow"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="34" pc="268435698" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="35" pc="268435702" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="36" pc="268435738" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="37" pc="268435750" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="38" pc="268435764" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="39" pc="268435783" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="40" pc="268435800" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="41" pc="268435810" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="42" pc="268435868" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="43" pc="268435885" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="44" pc="268435922" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="45" pc="268436016" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="46" pc="268436035" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="47" pc="268436054" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="48" pc="268436064" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="49" pc="268436081" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="51" pc="268436098" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="52" pc="268436126" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="54" pc="268436169" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="55" pc="268436188" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="58" pc="268436207" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="61" pc="268436278" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="62" pc="268436295" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="66" pc="268436311" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="67" pc="268436336" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="68" pc="268436368" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="69" pc="268436378" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="70" pc="268436401" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="72" pc="268436412" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="73" pc="268436430" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="74" pc="268436453" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="75" pc="268436476" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="76" pc="268436486" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="77" pc="268436496" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="78" pc="268436506" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="79" pc="268436542" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="80" pc="268436598" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="81" pc="268436634" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="82" pc="268436735" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="85" pc="268436801" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="86" pc="268436819" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="87" pc="268436842" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="88" pc="268436865" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="89" pc="268436875" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="90" pc="268436885" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="91" pc="268436895" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="92" pc="268436931" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="93" pc="268436981" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="94" pc="268437017" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="95" pc="268437112" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="102" pc="268437172" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="103" pc="268437208" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="104" pc="268437276" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="105" pc="268437312" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="106" pc="268437365" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="107" pc="268437401" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="111" pc="268437469" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="112" pc="268437480" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="113" pc="268437516" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="117" pc="268437560" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="118" pc="268437596" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="119" pc="268437641" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="120" pc="268437686" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="125" pc="268437730" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="127" pc="268437766" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="128" pc="268437773" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="129" pc="268437780" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="130" pc="268437803" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="132" pc="268437825" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="136" pc="268437872" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="137" pc="268437917" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="138" pc="268437953" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="139" pc="268438009" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="143" pc="268438045" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="147" pc="268438093" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="149" pc="268438110" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="150" pc="268438140" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="151" pc="268438176" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="153" pc="268438224" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="154" pc="268438260" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="161" pc="268438305" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="162" pc="268438332" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="163" pc="268438368" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="165" pc="268438430" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="166" pc="268438466" symbol="onUpdate"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="173" pc="268438526" symbol="onHide"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="176" pc="268438531" symbol="onExitSleep"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserView.mc" lineNum="178" pc="268438536" symbol="onEnterSleep"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserApp.mc" lineNum="5" pc="268438541" symbol="initialize"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserApp.mc" lineNum="6" pc="268438545" symbol="initialize"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserApp.mc" lineNum="10" pc="268438564" symbol="onStart"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserApp.mc" lineNum="14" pc="268438569" symbol="onStop"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserApp.mc" lineNum="18" pc="268438574" symbol="getInitialView"/>
+<entry filename="/Users/perryreid/Documents/workspaceconnect/GreenLaser/source/GreenLaserApp.mc" lineNum="19" pc="268438578" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="23" pc="268438616" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268438620" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268438783" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268438808" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268438860" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268438906" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="14" symbol="garminSym"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="16" symbol="sarpanchReg"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry id="8" object="true" symbol="GreenLaserView"/>
+<entry field="true" id="12" symbol="heart"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="19" symbol="ampm"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="9" object="true" symbol="GreenLaserApp"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="17" symbol="sarpanchBlack"/>
+<entry field="true" id="15" symbol="sarpanchBold"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="8389701" symbol="HeartRateIterator"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436798" name="minuteHeight" stackId="24" startPc="268436412"/>
+<entry endPc="268436798" name="minuteDim" stackId="22" startPc="268436412"/>
+<entry endPc="268436798" name="hourWidth" stackId="26" startPc="268436412"/>
+<entry endPc="268436798" name="minuteWidth" stackId="25" startPc="268436412"/>
+<entry endPc="268436798" name="hourDim" stackId="23" startPc="268436412"/>
+<entry endPc="268437169" name="minuteHeight" stackId="29" startPc="268436801"/>
+<entry endPc="268437169" name="minuteDim" stackId="27" startPc="268436801"/>
+<entry endPc="268437169" name="hourWidth" stackId="31" startPc="268436801"/>
+<entry endPc="268437169" name="minuteWidth" stackId="30" startPc="268436801"/>
+<entry endPc="268437169" name="hourDim" stackId="28" startPc="268436801"/>
+<entry endPc="268437869" name="hrtRate" stackId="32" startPc="268437773"/>
+<entry endPc="268438525" name="percent" stackId="15" startPc="268435702"/>
+<entry endPc="268438525" name="batteryPercent" stackId="19" startPc="268435702"/>
+<entry endPc="268438525" name="activity" stackId="3" startPc="268435702"/>
+<entry endPc="268438525" name="smallFont" stackId="2" startPc="268435702"/>
+<entry endPc="268438525" name="hour" stackId="5" startPc="268435702"/>
+<entry endPc="268438525" name="hrtIter" stackId="16" startPc="268435702"/>
+<entry endPc="268438525" name="monthDim" stackId="13" startPc="268435702"/>
+<entry endPc="268438525" name="y" stackId="18" startPc="268435702"/>
+<entry endPc="268438525" name="x" stackId="17" startPc="268435702"/>
+<entry endPc="268438525" name="hrtRateDim" stackId="33" startPc="268435702"/>
+<entry endPc="268438525" name="newMessages" stackId="21" startPc="268435702"/>
+<entry endPc="268438525" name="clockTime" stackId="4" startPc="268435702"/>
+<entry endPc="268438525" name="minute" stackId="6" startPc="268435702"/>
+<entry endPc="268438525" name="dayOfWeek" stackId="10" startPc="268435702"/>
+<entry endPc="268438525" name="day" stackId="12" startPc="268435702"/>
+<entry endPc="268438525" name="dateInfo" stackId="8" startPc="268435702"/>
+<entry endPc="268438525" name="messages" stackId="20" startPc="268435702"/>
+<entry endPc="268438525" name="today" stackId="7" startPc="268435702"/>
+<entry endPc="268438525" name="dayOfWeekDim" stackId="14" startPc="268435702"/>
+<entry endPc="268438525" name="date" stackId="9" startPc="268435702"/>
+<entry endPc="268438525" name="month" stackId="11" startPc="268435702"/>
+<entry endPc="268438525" name="batteryDim" stackId="34" startPc="268435702"/>
+<entry endPc="268438923" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268438620"/>
+<entry endPc="268438923" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268438620"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="GreenLaserView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="GreenLaserView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="GreenLaserView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="GreenLaserView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="GreenLaserView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="GreenLaserView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="GreenLaserView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="GreenLaserApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="GreenLaserApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="GreenLaserApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="GreenLaserApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

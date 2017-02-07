@@ -1,0 +1,6 @@
+<fonts>
+	<font id="garminSym" filename="garminsym.fnt"/>
+	<font id="sarpanchBold" filename="sarpanchBold.fnt"/>
+	<font id="sarpanchReg" filename="sarpanchRegular.fnt"/>
+	<font id="sarpanchBlack" filename="sarpanchBlack.fnt"/>
+</fonts>

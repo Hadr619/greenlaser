@@ -6,5 +6,5 @@ First attempt at custom watchface using Garmin's SDK. Simple, clean showing step
 1. Initialize repo  
 2. add all files to repo  
 3. change Date format  
-4. Checking to see if phone is connected
+4. Checking to see if phone is connected  
 5. Adding images as icons 

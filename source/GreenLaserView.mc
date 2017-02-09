@@ -99,16 +99,9 @@ class GreenLaserView extends Ui.WatchFace {
     	}
 
 		//DATE
-    	
-    	if(dayOfWeek == "Thurs"){
-	    	dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
-	    	dc.drawText((x - monthDim[0]) - 15,(dc.getHeight() / 2) -5, smallFont, dayOfWeek, Gfx.TEXT_JUSTIFY_LEFT);
-	    	Sys.println(dayOfWeek);
-    	}else {
     		dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
     		dc.drawText(x - dayOfWeekDim[0] - 5,(dc.getHeight() / 2) -5, smallFont, dayOfWeek, Gfx.TEXT_JUSTIFY_LEFT);
-    	}
-    	Sys.println(dateInfo.day_of_week);
+
     	
     	dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_BLACK);
     	dc.drawText(x,(dc.getHeight() / 2) - 5, smallFont, month, Gfx.TEXT_JUSTIFY_LEFT);

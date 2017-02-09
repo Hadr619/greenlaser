@@ -120,9 +120,9 @@ class GreenLaserView extends Ui.WatchFace {
     	
     	}else {
     		dc.setColor(Gfx.COLOR_DK_GREEN, Gfx.COLOR_BLACK);
-    		dc.fillCircle((dc.getWidth() * percent) + 4, x + 15, 2);
-    		dc.drawCircle((dc.getWidth() * percent) + 4, x + 15, 4);
-    		dc.fillRectangle(0, x + 15, dc.getWidth() * percent, 2);
+    		dc.fillCircle((dc.getWidth() * percent), x + 15, 2);
+    		dc.drawCircle((dc.getWidth() * percent), x + 15, 4);
+    		dc.fillRectangle(0, x + 15, (dc.getWidth() * percent)-4, 2);
     	
     	}
     	
@@ -140,7 +140,7 @@ class GreenLaserView extends Ui.WatchFace {
     	//		dc.fillRectangle(0, x + 15, dc.getWidth() * percent, 2);
     	
     	//}
-    Sys.println(widthPercent);
+    
     	
 
 		dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);

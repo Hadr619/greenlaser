@@ -96,6 +96,17 @@ class GreenLaserView extends Ui.WatchFace {
 			}
 			
 			
+    	} else if(Sys.getDeviceSettings().is24Hour) {
+    		hour = hour.format("%02d");
+				var minuteDim = dc.getTextDimensions(minute,sarpanchReg);
+		    	var hourDim = dc.getTextDimensions(hour,sarpanchBold);
+		    	var minuteHeight = minuteDim[1];
+		    	var minuteWidth = minuteDim[0];
+		    	var hourWidth = hourDim[0];
+				dc.setColor(Gfx.COLOR_DK_GREEN, Gfx.COLOR_BLACK);
+				dc.drawText(x, 15, sarpanchBold, hour.toString(), Gfx.TEXT_JUSTIFY_RIGHT);
+				dc.setColor(Gfx.COLOR_DK_GREEN, Gfx.COLOR_BLACK);
+				dc.drawText(x, 15, sarpanchReg, Lang.format("$1$",[clockTime.min.format("%02d")]), Gfx.TEXT_JUSTIFY_LEFT);
     	}
 
 		//DATE
@@ -180,22 +191,29 @@ class GreenLaserView extends Ui.WatchFace {
 		//BATTERY BAR
 		var rectWidth = dc.getWidth() / 10;
 		var battery = Sys.getSystemStats().battery/100;
+		var innerRect = ((rectWidth - 4) * battery);
 		
-		dc.drawRectangle((x - (rectWidth/2)) , 15,rectWidth , 10);
-		dc.fillRectangle(x + (rectWidth /2),17, 3, 5);	
+		dc.drawRectangle((x - (rectWidth/2)) , 13,rectWidth , 12);
+		dc.fillRectangle(x + (rectWidth /2),15, 3, 7);	
 		
-		if(Sys.getSystemStats().battery == 100){
+		//if((rectWidth * battery) > rectWidth){
+		//	dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
+		//	dc.fillRectangle((x - (rectWidth/2)) + 2, 15, innserRect ,8);
+		//}else if(Sys.getSystemStats().battery <= 25){
+		//	dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_BLACK);
+		//	dc.fillRectangle((x - (rectWidth/2)) + 2, 15, (rectWidth * battery),8);
+		//}else {
+		//	dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
+		//	dc.fillRectangle((x - (rectWidth/2)) + 2, 15, (rectWidth * battery),8);
+		//}
+		
+		if(Sys.getSystemStats().battery <= 25){
+		dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_BLACK);
+			dc.fillRectangle((x - (rectWidth/2)) + 2, 15, innerRect,8);
+			} else{
 			dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
-			dc.fillRectangle((x - (rectWidth/2)) + 1, 16, (rectWidth * battery) - 1 ,8);
-		}else if(Sys.getSystemStats().battery <= 25){
-			dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_BLACK);
-			dc.fillRectangle((x - (rectWidth/2)) + 1, 16, (rectWidth * battery) + 1 ,8);
-		}else {
-			dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
-			dc.fillRectangle((x - (rectWidth/2)) + 1, 16, (rectWidth * battery) + 1  ,8);
-		}
-		
-		
+			dc.fillRectangle((x - (rectWidth/2)) + 2, 15, innerRect ,8);
+			}
 	
 		
 		//BLUETOOTH SYMBOL FOR IF PHONE IS CONNECTED SECTION
@@ -208,13 +226,13 @@ class GreenLaserView extends Ui.WatchFace {
 		//	dc.drawText((x + batteryDim[0]) - 3, 11, garminSym, "A", Gfx.TEXT_JUSTIFY_CENTER);
 		//}
 		
-		//IF BATTERY GRAPHIC
+		//IF BATTERY GRAPHIC PHONE CONNECTED
 		if(Sys.getDeviceSettings().phoneConnected == true){
 			dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_BLACK);
-			dc.drawText((x + rectWidth) + 5, 11, garminSym, "A", Gfx.TEXT_JUSTIFY_CENTER);
+			dc.drawText((x + rectWidth) + 5, 10, garminSym, "A", Gfx.TEXT_JUSTIFY_CENTER);
 		}else {
 			dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_BLACK);
-			dc.drawText((x + rectWidth) + 5, 11, garminSym, "A", Gfx.TEXT_JUSTIFY_CENTER);
+			dc.drawText((x + rectWidth) + 5, 10, garminSym, "A", Gfx.TEXT_JUSTIFY_CENTER);
 		}
 		
 		
